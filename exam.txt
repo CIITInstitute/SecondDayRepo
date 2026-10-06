@@ -1,0 +1,6 @@
+This is Exam file
+Hi Hello
+Welcome to Git Bash
+This is Practice.
+
+My file is created to make some practice.
